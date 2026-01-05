@@ -91,7 +91,7 @@ Before starting the course, ensure you have the following software installed:
 | Assignments (2) + Labs (6) | 20%+15% |
 | Group Project & Report | 30% |
 | Quizzes (3) | 30% |
-| Case Study / Reading | 2% |
+| Case Study and Reading | 2% |
 | Participation | 3% |
 
 ---
