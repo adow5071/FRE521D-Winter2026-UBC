@@ -88,7 +88,7 @@ Before starting the course, ensure you have the following software installed:
 
 | Component | Weight |
 |-----------|--------|
-| Assignments (2) + Labs (6) | 35% |
+| Assignments (2) + Labs (6) | 20%+15% |
 | Group Project & Report | 30% |
 | Quizzes (3) | 30% |
 | Case Study / Reading | 2% |
@@ -100,7 +100,7 @@ Before starting the course, ensure you have the following software installed:
 
 | Item | Date |
 |------|------|
-| Teams Formed | Jan 10 |
+| Teams Formed | Jan 07 |
 | Assignment 1 Due | Jan 14 |
 | Quiz 1 | Jan 19 |
 | Quiz 2 | Jan 28 |

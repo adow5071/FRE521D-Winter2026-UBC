@@ -32,7 +32,7 @@
 
 | Item                             | Date   |
 | -------------------------------- | ------ |
-| Teams Formed                     | Jan 10 |
+| Teams Formed                     | Jan 07 |
 | A-1: SQL Access Layer            | Jan 14 |
 | Quiz 1: SQL & Schemas            | Jan 19 |
 | Quiz 2: ETL & Wrangling          | Jan 28 |
